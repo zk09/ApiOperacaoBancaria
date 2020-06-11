@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Extensions.FluentValidation.Br" Version="1.0.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.6.2" />
+    <PackageReference Include="MediatR" Version="8.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="EventHandler\Conta\" />
+    <Folder Include="EventHandler\Lancamento\" />
+    <Folder Include="EventHandler\Titular\" />
+    <Folder Include="Events\Conta\" />
+    <Folder Include="Events\Lancamento\" />
+    <Folder Include="Events\Titular\" />
+  </ItemGroup>
+
+</Project>
+

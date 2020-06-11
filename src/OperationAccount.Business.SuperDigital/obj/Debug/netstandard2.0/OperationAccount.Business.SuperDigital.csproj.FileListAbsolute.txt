@@ -1,0 +1,8 @@
+D:\Labs\TesteSuperDigital\src\OperationAccount.Business.SuperDigital\bin\Debug\netstandard2.0\OperationAccount.Business.SuperDigital.deps.json
+D:\Labs\TesteSuperDigital\src\OperationAccount.Business.SuperDigital\bin\Debug\netstandard2.0\OperationAccount.Business.SuperDigital.dll
+D:\Labs\TesteSuperDigital\src\OperationAccount.Business.SuperDigital\bin\Debug\netstandard2.0\OperationAccount.Business.SuperDigital.pdb
+D:\Labs\TesteSuperDigital\src\OperationAccount.Business.SuperDigital\obj\Debug\netstandard2.0\OperationAccount.Business.SuperDigital.AssemblyInfoInputs.cache
+D:\Labs\TesteSuperDigital\src\OperationAccount.Business.SuperDigital\obj\Debug\netstandard2.0\OperationAccount.Business.SuperDigital.AssemblyInfo.cs
+D:\Labs\TesteSuperDigital\src\OperationAccount.Business.SuperDigital\obj\Debug\netstandard2.0\OperationAccount.Business.SuperDigital.dll
+D:\Labs\TesteSuperDigital\src\OperationAccount.Business.SuperDigital\obj\Debug\netstandard2.0\OperationAccount.Business.SuperDigital.pdb
+D:\Labs\TesteSuperDigital\src\OperationAccount.Business.SuperDigital\obj\Debug\netstandard2.0\OperationAccount.Business.SuperDigital.csprojAssemblyReference.cache

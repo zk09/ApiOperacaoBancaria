@@ -1,0 +1,13 @@
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\bin\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.deps.json
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\bin\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.runtimeconfig.json
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\bin\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.runtimeconfig.dev.json
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\bin\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.dll
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\bin\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.pdb
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\bin\Debug\netcoreapp2.2\OperationAccount.Business.SuperDigital.dll
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\bin\Debug\netcoreapp2.2\OperationAccount.Business.SuperDigital.pdb
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\obj\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.csprojAssemblyReference.cache
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\obj\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.AssemblyInfoInputs.cache
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\obj\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.AssemblyInfo.cs
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\obj\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.csproj.CopyComplete
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\obj\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.dll
+D:\Labs\TesteSuperDigital\src\OperationAccount.Data.SuperDigital\obj\Debug\netcoreapp2.2\OperationAccount.Data.SuperDigital.pdb
